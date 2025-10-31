@@ -1,0 +1,24 @@
+app:
+  config:
+    id: 'github-chat'
+    name: 'GitHub Chatbot'
+
+llm:
+  provider: groq
+  config:
+    model: 'llama-3.1-8b-instant'
+    stream: false
+
+embedder:
+  provider: huggingface
+  config:
+    model: 'sentence-transformers/all-MiniLM-L6-v2'
+    model_kwargs:
+      trust_remote_code: True
+
+vectordb:
+  provider: chroma
+  config:
+    collection_name: 'github-384'
+    dir: db
+    allow_reset: true
