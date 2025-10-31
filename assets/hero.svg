@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="500" viewBox="0 0 1600 500">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#0b0c10"/>
+      <stop offset="100%" stop-color="#14161b"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="500" fill="url(#g)"/>
+  <rect x="40" y="40" width="1520" height="420" rx="16" ry="16" fill="#0f1117" stroke="#2a2f3a" stroke-width="2"/>
+
+  <g font-family="'Courier New', Consolas, monospace" fill="#ffffff">
+    <text x="120" y="200" font-size="64" font-weight="700">CodeCompass</text>
+    <text x="120" y="260" font-size="28" fill="#c9d1d9">Conversational code intelligence for your GitHub repos</text>
+    <text x="120" y="305" font-size="20" fill="#9da7b3">Index • Retrieve • Chat • Cite Sources</text>
+  </g>
+
+  <g transform="translate(1100,120)">
+    <rect width="360" height="260" rx="12" ry="12" fill="#0b0c10" stroke="#30363d"/>
+    <circle cx="28" cy="28" r="6" fill="#ef4444"/>
+    <circle cx="48" cy="28" r="6" fill="#f59e0b"/>
+    <circle cx="68" cy="28" r="6" fill="#10b981"/>
+    <g font-family="'Courier New', monospace" font-size="14" fill="#aab2bf">
+      <text x="24" y="70">$ add repo: github.com/owner/repo</text>
+      <text x="24" y="100">→ indexing with embeddings…</text>
+      <text x="24" y="130">$ ask: How is auth implemented?</text>
+      <text x="24" y="160">→ see src/auth/*.ts — JWT middleware</text>
+    </g>
+  </g>
+  <g font-family="'Courier New', Consolas, monospace" font-size="14" fill="#6b7280">
+    <text x="120" y="360">Flask + Embedchain • Chroma • Groq • React + Vite + Tailwind</text>
+  </g>
+</svg>
